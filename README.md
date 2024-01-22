@@ -32,6 +32,8 @@ Navigate through the project directory to understand the Verilog implementation 
 
 ## Simulation:
 Use the provided test bench to simulate the processor and observe its functionality.
+![Screenshot (272)](https://github.com/VishalPV2004/MIPS32-RISC-V-Pipelined/assets/125368625/73c21b16-f44d-4d1c-aeba-a751360582d9)
+
 
 ## Contribute:
 Contributions and feedback are welcome! Feel free to open an issue or submit a pull request to enhance the processor.
